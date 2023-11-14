@@ -8,6 +8,7 @@ public class MyDraw extends JFrame {
     private static int[] strt;
     private static int[] end;
     private static int cnt = 0;
+    // aaa
 
     public MyDraw() {
 
